@@ -19,3 +19,37 @@
   "f f f f";
 }
 
+header {
+  grid-area: h;
+  background-color: steelblue;
+}
+
+.box1 {
+  grid-area: s1;
+  background-color: steelblue;
+}
+
+.box2 {
+  grid-area: s2;
+  background-color: steelblue;
+}
+
+.box3 {
+  grid-area: s3;
+  background-color: steelblue;
+}
+
+aside {
+  grid-area: as;
+  background-color: steelblue;
+}
+
+article {
+  grid-area: m;
+  background-color: steelblue;
+}
+
+footer {
+  grid-area: f;
+  background-color: steelblue;
+}
