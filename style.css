@@ -22,34 +22,41 @@
 header {
   grid-area: h;
   background-color: steelblue;
+  padding: 1rem;
 }
 
 .box1 {
   grid-area: s1;
   background-color: steelblue;
+  padding: 1rem;
 }
 
 .box2 {
   grid-area: s2;
   background-color: steelblue;
+  padding: 1rem;
 }
 
 .box3 {
   grid-area: s3;
   background-color: steelblue;
+  padding: 1rem;
 }
 
 aside {
   grid-area: as;
   background-color: steelblue;
+  padding: 1rem;
 }
 
 article {
   grid-area: m;
   background-color: steelblue;
+  padding: 1rem;
 }
 
 footer {
   grid-area: f;
   background-color: steelblue;
+  padding: 1rem;
 }
